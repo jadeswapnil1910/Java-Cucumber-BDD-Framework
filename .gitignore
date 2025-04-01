@@ -1,0 +1,47 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore Maven target directory (compiled code and dependencies)
+target/
+
+# Ignore Maven build logs and reports
+mvnw
+mvnw.cmd
+*.log
+
+# Ignore IntelliJ IDEA project files (if applicable)
+.idea/
+*.iml
+
+# Ignore TestNG reports and outputs
+test-output/
+testng.xml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Java files
+*.class
+
+# Ignore dependency libraries downloaded by Maven
+.m2/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore JetBrains and VS Code workspace files (if using)
+.vscode/
+*.code-workspace
+
+# Ignore JUnit & Cucumber reports
+cucumber-reports/
+surefire-reports/
+extent-reports/
+
+# Ignore environment-specific files
+.env
+
