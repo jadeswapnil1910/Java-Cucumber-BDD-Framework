@@ -17,7 +17,6 @@ mvnw.cmd
 
 # Ignore TestNG reports and outputs
 test-output/
-testng.xml
 
 # Ignore OS-specific files
 .DS_Store
